@@ -113,7 +113,12 @@ hr {
 	margin: 30px;
 }
 
-.project-des, .contact-message {
+.project-des {
+	width: 40%;
+	margin: 20px auto 60px;
+}
+
+.contact-message {
 	width: 40%;
 	margin: 40px auto 60px;
 }
